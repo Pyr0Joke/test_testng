@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.mainTests" tests="1" skipped="0" failures="1" errors="0" timestamp="2018-10-08T11:01:37" hostname="IT-48" time="0.008">
+<testsuite name="com.mainTests" tests="1" skipped="0" failures="1" errors="0" timestamp="2018-10-08T11:11:58" hostname="IT-48" time="0.006">
   <properties/>
-  <testcase name="first_test" classname="com.mainTests" time="0.008">
+  <testcase name="first_test" classname="com.mainTests" time="0.006">
     <failure message="java.lang.AssertionError: did not expect to find [6] but found [5]" type="java.lang.AssertionError">java.lang.AssertionError: did not expect to find [6] but found [5]
 	at org.testng.Assert.fail(Assert.java:97)
 	at org.testng.Assert.failNotEquals(Assert.java:969)
