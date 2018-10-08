@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.mainTests" tests="2" skipped="0" failures="1" errors="0" timestamp="2018-10-08T11:43:28" hostname="IT-48" time="0.009">
+<testsuite name="com.mainTests" tests="2" skipped="0" failures="1" errors="0" timestamp="2018-10-08T12:34:52" hostname="IT-48" time="0.009">
   <properties/>
   <testcase name="first_test" classname="com.mainTests" time="0.007">
     <failure message="java.lang.AssertionError: did not expect to find [6] but found [5]" type="java.lang.AssertionError">java.lang.AssertionError: did not expect to find [6] but found [5]
@@ -62,7 +62,7 @@
 	at java.lang.Thread.run(Thread.java:748)
 </failure>
   </testcase>
-  <testcase name="second_test" classname="com.mainTests" time="0.001"/>
+  <testcase name="second_test" classname="com.mainTests" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

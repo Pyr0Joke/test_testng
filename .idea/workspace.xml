@@ -106,8 +106,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="442">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -311,9 +311,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4616976150439" />
+        <entry key="$PROJECT_DIR$" value="4616981607976" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1179102701" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2436035970" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1419696065" />
       </map>
     </option>
@@ -502,8 +502,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/mainTests.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/mainTests.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -654,13 +654,44 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="mainTests.second_test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test_testng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.mainTests" />
+      <option name="METHOD_NAME" value="second_test" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <list>
       <item itemvalue="TestNG.mainTests" />
       <item itemvalue="Gradle.test_testng [test]" />
+      <item itemvalue="TestNG.mainTests.second_test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.test_testng [test]" />
+        <item itemvalue="TestNG.mainTests.second_test" />
         <item itemvalue="TestNG.mainTests" />
       </list>
     </recent_temporary>
@@ -685,10 +716,24 @@
     <history-entry file="test_testng_[test] - 2018.10.08 at 13h 20m 53s.xml">
       <configuration name="test_testng [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="mainTests_second_test - 2018.10.08 at 15h 29m 17s.xml">
+      <configuration name="mainTests.second_test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="test_testng_[test] - 2018.10.08 at 15h 29m 23s.xml">
+      <configuration name="test_testng [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="test_testng_[test] - 2018.10.08 at 15h 29m 24s.xml">
+      <configuration name="test_testng [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="test_testng_[test] - 2018.10.08 at 15h 31m 02s.xml">
+      <configuration name="test_testng [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="test_testng_[test] - 2018.10.08 at 15h 31m 14s.xml">
+      <configuration name="test_testng [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -697,13 +742,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -748,8 +793,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="442">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
